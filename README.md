@@ -34,5 +34,4 @@ Add in [@BotFather](https://t.me/BotFather)
     clear - Clear Queued Files
     showthumb - Show Current Thumbnail
     eval - Execute An Argument
-    bash - Run Bash Commands
     cmds - List Available Commands
