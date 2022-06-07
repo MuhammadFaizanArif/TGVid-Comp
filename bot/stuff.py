@@ -41,7 +41,6 @@ async def zylern(event):
 /showthumb - __Show Current Thumbnail__
 /speed - __Do A SpeedTest__
 /eval - __Execute An Argument__
-/bash - __Run Bash Commands__
 /cmds - __List Available Commands__
 """
     )
