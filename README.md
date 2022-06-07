@@ -33,5 +33,4 @@ Add in [@BotFather](https://t.me/BotFather)
     renew - Clear Cached Downloads, Queue etc
     clear - Clear Queued Files
     showthumb - Show Current Thumbnail
-    eval - Execute An Argument
     cmds - List Available Commands
